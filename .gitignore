@@ -1,0 +1,7 @@
+TMTMediatorRouter.xcodeproj/xcuserdata/
+TMTMediatorRouter.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+TMTMediatorRouter.xcodeproj/project.xcworkspace/xcuserdata/
